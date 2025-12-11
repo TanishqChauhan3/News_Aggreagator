@@ -116,5 +116,3 @@ Category filtering (Sports, Politics, Tech).
 
 📝 License
 This project is open-source and available for educational purposes.
-
-Developed by Tanishq Chauhan
