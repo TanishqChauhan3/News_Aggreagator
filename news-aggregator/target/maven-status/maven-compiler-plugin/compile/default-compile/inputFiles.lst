@@ -1,0 +1,9 @@
+D:\Projects\News_Aggreagator\news-aggregator\src\main\java\com\newsapp\aggregator\controller\ChatController.java
+D:\Projects\News_Aggreagator\news-aggregator\src\main\java\com\newsapp\aggregator\controller\NewsController.java
+D:\Projects\News_Aggreagator\news-aggregator\src\main\java\com\newsapp\aggregator\model\NewsItem.java
+D:\Projects\News_Aggreagator\news-aggregator\src\main\java\com\newsapp\aggregator\NewsAggregatorApplication.java
+D:\Projects\News_Aggreagator\news-aggregator\src\main\java\com\newsapp\aggregator\repository\NewsRepository.java
+D:\Projects\News_Aggreagator\news-aggregator\src\main\java\com\newsapp\aggregator\Scheduler\NewScheduler.java
+D:\Projects\News_Aggreagator\news-aggregator\src\main\java\com\newsapp\aggregator\service\ChatService.java
+D:\Projects\News_Aggreagator\news-aggregator\src\main\java\com\newsapp\aggregator\service\RssService.java
+D:\Projects\News_Aggreagator\news-aggregator\src\main\java\com\newsapp\aggregator\service\ScraperService.java
