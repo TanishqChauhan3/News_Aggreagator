@@ -1,0 +1,10 @@
+com\newsapp\aggregator\service\RssService.class
+com\newsapp\aggregator\NewsAggregatorApplication.class
+com\newsapp\aggregator\service\ScraperService$SelectorStrategy.class
+com\newsapp\aggregator\service\ScraperService.class
+com\newsapp\aggregator\model\NewsItem.class
+com\newsapp\aggregator\controller\ChatController.class
+com\newsapp\aggregator\controller\NewsController.class
+com\newsapp\aggregator\Scheduler\NewScheduler.class
+com\newsapp\aggregator\service\ChatService.class
+com\newsapp\aggregator\repository\NewsRepository.class
